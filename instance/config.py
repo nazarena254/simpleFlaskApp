@@ -1,0 +1,2 @@
+MOVIE_API_KEY = '8509e684375f5f77a89bbcbf51472b07'
+SECRET_KEY = 'nazarenerenah'
